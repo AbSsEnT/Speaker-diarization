@@ -1,4 +1,4 @@
-# Usefull information, related to speaker diarizaton topic.
+# Usefull information, related to the speaker diarizaton topic.
 
 1. [Fully Supervised Speaker Diarization. ](https://www.youtube.com/watch?v=pGkqwRPzx9U)
 2. [Fully Supervised Speaker Diarization (repository). ](https://github.com/google/uis-rnn)
