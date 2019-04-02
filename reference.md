@@ -7,3 +7,4 @@
 5. [Deep Speaker Vectors for Semi Text-independent Speaker Veriﬁcation. ](https://arxiv.org/pdf/1505.06427)
 6. [A curated list of awesome Speaker Diarization papers, libraries, datasets, and other resources. ](https://wq2012.github.io/awesome-diarization/)
 7. [Spectral Clustering for beginners. ](https://towardsdatascience.com/spectral-clustering-for-beginners-d08b7d25b4d8)
+8. [pyAudioAnalysis. ](https://github.com/tyiannak/pyAudioAnalysis)
